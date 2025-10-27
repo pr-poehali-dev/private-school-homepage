@@ -75,7 +75,7 @@ const Index = () => {
             <div className="flex items-center gap-2">
               <Icon name="Rocket" className="text-primary" size={32} />
               <span className="text-2xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                Космическая Школа
+                Новое Поколение
               </span>
             </div>
             <div className="hidden md:flex gap-6">
@@ -115,7 +115,7 @@ const Index = () => {
           <div className="mt-16 animate-float">
             <img 
               src="https://cdn.poehali.dev/projects/78d3b0db-6591-43ed-8fc2-a4c2441c271f/files/04767f91-342f-4610-83af-3326d4a065d0.jpg" 
-              alt="Космическая школа" 
+              alt="Школа Новое Поколение" 
               className="rounded-3xl shadow-2xl mx-auto max-w-4xl w-full"
             />
           </div>
@@ -486,7 +486,7 @@ const Index = () => {
             <div className="flex items-center gap-2">
               <Icon name="Rocket" className="text-primary" size={32} />
               <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Космическая Школа
+                Новое Поколение
               </span>
             </div>
             <div className="flex gap-6 text-muted-foreground">
